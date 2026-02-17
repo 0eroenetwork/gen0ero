@@ -8,3 +8,5 @@ End area
 Shulker Room
 
 # Essential Commands:
+/spawn - Teleports you to The Tree (Spawn)
+/shulkerroom

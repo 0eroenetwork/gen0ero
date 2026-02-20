@@ -9,4 +9,7 @@ Shulker Room
 
 # Essential Commands:
 /spawn - Teleports you to The Tree (Spawn)
-/shulkerroom
+
+/shulkerroom - Teleports you to the shulker room where you can open shulker boxes
+
+/rules - Shows the rules that you MUST follow or else you will be punished
